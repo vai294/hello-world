@@ -1,0 +1,2 @@
+Hi I'm Vaishnavi and this exercise is a part of the MSIS BUDT748 course.  
+This repository is for practicing the GitHub Flow.
