@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+This is Vaishnavi. This task is a part of the BUDT748 course.
